@@ -4,12 +4,15 @@
 
 Lecturer: Ts Dr Johanna binti Ahmad
 
+
 Members: 
 1. Felicia Chin Hui Fen (A20EC0037) - Leader
 2. Gui Yu Xuan (A20EC0039）
 3. Saidah Binti Saiful Bahari (A20EC0141)
 
+
 **Overview:**
+
 The Final Year Project System is a system in which users check the final
 year projects of the students. The Final Year Project System stores the information
 of the students and supervisor in a text file to facilitate the final year project
@@ -25,11 +28,15 @@ name, id, course, section, project name, marks, grade and comment for the studen
 to view.
 
 
+
+
 **Funtions:**
 1. Insert students' marks
 2. Delete students' marks
 3. Search  students' information
 4. Display students' information
+
+
 
 
 **Concept Applied:**
