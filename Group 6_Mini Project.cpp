@@ -436,10 +436,7 @@ class queue{
 				
 				if(counter == 1)
 				{
-					//why cannot work?
-					//frontPtr->next->marks = backPtr->next->marks = newPtr->next->marks;
 					frontPtr->marks = backPtr->marks = newPtr->marks;
-					//frontPtr->next->comment = backPtr->next->comment = newPtr->next->comment;
 					frontPtr->comment = backPtr->comment = newPtr->comment;
 				}	
 				else
