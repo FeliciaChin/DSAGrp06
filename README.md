@@ -1,6 +1,6 @@
-**DATA STRUCTURE & ALGORITHM**
+# **DATA STRUCTURE & ALGORITHM**
 
-**Mini Project Documentation: FINAL YEAR PROJECT MANAGEMENT SYSTEM**
+# **Mini Project Documentation: FINAL YEAR PROJECT MANAGEMENT SYSTEM**
 
 Lecturer: Ts Dr Johanna binti Ahmad
 
@@ -11,7 +11,7 @@ Members:
 3. Saidah Binti Saiful Bahari (A20EC0141)
 
 
-**Overview:**
+## **Overview:**
 
 The Final Year Project System is a system in which users check the final
 year projects of the students. The Final Year Project System stores the information
@@ -30,7 +30,7 @@ to view.
 
 
 
-**Funtions:**
+## **Funtions:**
 1. Insert students' marks
 2. Delete students' marks
 3. Search  students' information
@@ -39,7 +39,7 @@ to view.
 
 
 
-**Concept Applied:**
+## **Concept Applied:**
 
 The data structure applied in this system is the linked list and queue. We
 perform the linked list concept in the queue. For the linked list, we have
