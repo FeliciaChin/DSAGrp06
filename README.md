@@ -1,6 +1,9 @@
 **DATA STRUCTURE & ALGORITHM**
+
 **Mini Project Documentation: FINAL YEAR PROJECT MANAGEMENT SYSTEM**
+
 Lecturer: Ts Dr Johanna binti Ahmad
+
 Members: 
 1. Felicia Chin Hui Fen (A20EC0037) - Leader
 2. Gui Yu Xuan (A20EC0039）
