@@ -1,6 +1,6 @@
 # **DATA STRUCTURE & ALGORITHM**
 
-# **Mini Project Documentation: FINAL YEAR PROJECT MANAGEMENT SYSTEM**
+# Mini Project Documentation: <br>FINAL YEAR PROJECT MANAGEMENT SYSTEM
 
 Lecturer: Ts Dr Johanna binti Ahmad
 
@@ -13,7 +13,7 @@ Members:
 
 ## **Overview:**
 
-The Final Year Project System is a system in which users check the final
+<p align=justify> The Final Year Project System is a system in which users check the final
 year projects of the students. The Final Year Project System stores the information
 of the students and supervisor in a text file to facilitate the final year project
 process. The design is simple because it provides a clear interface for users to
@@ -25,8 +25,7 @@ down the students’ information such as name, id, course, section and project n
 to the supervisor for them to key in the marks and comment. For students, the
 system will list down the overall information of all students such as students’
 name, id, course, section, project name, marks, grade and comment for the student
-to view.
-
+to view.</p>
 
 
 
@@ -41,7 +40,7 @@ to view.
 
 ## **Concept Applied:**
 
-The data structure applied in this system is the linked list and queue. We
+<p align=justify> The data structure applied in this system is the linked list and queue. We
 perform the linked list concept in the queue. For the linked list, we have
 implemented two linked lists to link two types of student information. Firstly, we
 used student class pointers, “frontPtr” and “backPtr” in the class queue to link all
@@ -55,4 +54,4 @@ First-In-First-Out.
 For the queue, we have used the insertQueue function to store all student
 information and display function to display all the information of the student. The
 First-In-First-Out concept is applied, where the first student information will be
-stored in the queue and it will be displayed first on the screen.
+stored in the queue and it will be displayed first on the screen. </p>
