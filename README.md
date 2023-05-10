@@ -50,8 +50,8 @@ queue. In order to link to the next pointer, we assigned a pointer named “next
 the student class. Almost all the functions in the system have applied the linked
 list concept. For example, the insertQueue function had used the linked list
 concept to store the students’ information in the queue with the idea of
-First-In-First-Out.
-For the queue, we have used the insertQueue function to store all student
+First-In-First-Out.</p>
+<p>For the queue, we have used the insertQueue function to store all student
 information and display function to display all the information of the student. The
 First-In-First-Out concept is applied, where the first student information will be
 stored in the queue and it will be displayed first on the screen. </p>
