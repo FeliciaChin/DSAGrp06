@@ -24,13 +24,16 @@ system will list down the overall information of all students such as studentsâ€
 name, id, course, section, project name, marks, grade and comment for the student
 to view.
 
+
 **Funtions:**
 1. Insert students' marks
 2. Delete students' marks
 3. Search  students' information
 4. Display students' information
 
+
 **Concept Applied:**
+
 The data structure applied in this system is the linked list and queue. We
 perform the linked list concept in the queue. For the linked list, we have
 implemented two linked lists to link two types of student information. Firstly, we
