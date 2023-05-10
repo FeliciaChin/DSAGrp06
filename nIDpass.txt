@@ -1,0 +1,12 @@
+Name	ID	Password
+Aarush a/l Dhruv	A20EC009	9999
+Abdullah bin Razak	A10EC002	2222
+Ahmad bin Homad	B18EC111	1111
+Aisyah binti Rahim	B20EC004	4444
+Atharva a/l Anay	C20EC006	6666
+Avyaan a/p Rajatu	A20EC005	5555
+Fatimah binti Halim	A19EC003	3333
+Lim Ah Meng	B18EC007	7777
+Loh Fuan	A20EC010	0000
+Soh Xiu Mei	B20EC008	8888
+
